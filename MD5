@@ -1,9 +1,9 @@
-2c767ffa5574501fc741fcf30da3059b *DESCRIPTION
+e4f9995bfcc028856320f850b3e6951a *DESCRIPTION
 d30e3b33cc24dbc6f9eccdaeb90d088c *NAMESPACE
 ed212ef652194868eb32f3e36fd217ef *R/LQRFE_main_v2.R
 070755b95e218a9c581b5445a6e0119d *R/RcppExports.R
-c2e0ca1313ec14ac6eca023bd4446855 *build/partial.rdb
-507aaca822a2c6ca72c64d14aab4c086 *man/alqrfe-package.Rd
+6294ec477ea8f76c71007da3bb559ab7 *build/partial.rdb
+88c47b21057d4c69a015b7feafccd8a7 *man/alqrfe-package.Rd
 f66e36acf48af4eed6582906222578eb *man/bic_hat.Rd
 cd503b122878b88118e7e21a0ac2bb42 *man/clean_data.Rd
 c7179b90a8b033c17b9e689cc940ee92 *man/df_hat.Rd
@@ -30,4 +30,4 @@ a9bcbe487cd56373cf97950ec04bbabc *man/qr.Rd
 76c5354cc472c13636b90bba1f71a411 *src/LQRFE_arma.cpp
 61059660eb073d93e00e8ee054237071 *src/Makevars
 61059660eb073d93e00e8ee054237071 *src/Makevars.win
-002ea675c75594773ab7992a707a7070 *src/RcppExports.cpp
+97c7d84519176e76d4fed07303a24306 *src/RcppExports.cpp
